@@ -5,7 +5,7 @@
   "pretty_name": "Kujira",
   "status": "live",
   "network_type": "mainnet",
-  "website": "https://kujira.app/",
+  "website": "https://kujira.network/",
   "bech32_prefix": "kujira",
   "daemon_name": "kujirad",
   "node_home": "$HOME/.kujira",
@@ -348,8 +348,8 @@
   "explorers": [
     {
       "kind": "kujira",
-      "url": "https://finder.kujira.app",
-      "tx_page": "https://finder.kujira.app/kaiyo-1/tx/${txHash}"
+      "url": "https://finder.kujira.network",
+      "tx_page": "https://finder.kujira.network/kaiyo-1/tx/${txHash}"
     },
     {
       "kind": "explorers.guru",
